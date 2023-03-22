@@ -1,4 +1,4 @@
-## Olá! Meu nome e Pedro Henrique 
+## Olá! Meu nome é Pedro Henrique 
 
 📖 Estudante de programação
 🎓 Cursando Desenvolvimento Web na Faculdade
